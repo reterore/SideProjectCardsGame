@@ -1,0 +1,48 @@
+[
+  {
+    "type": "LuckyEvent_freeCardChoice",
+    "name": "Lost Fairy",
+    "description": "You meet a nice fairy who give you some more power for the rest of your adventure",
+    "lucky": true,
+    "eventDifficulty": [1, 2]
+  },
+  {
+    "type": "LuckyEvent_ArtefactGoblin",
+    "name": "Generous Goblin",
+    "description": "You find a Goblin that give you an artefact of his collection.",
+    "lucky": true,
+    "eventDifficulty": [1, 2]
+  },
+  {
+    "type": "LuckyEvent_ArtefactGoblin",
+    "name": "Generous Goblin",
+    "description": "You find a Goblin that give you an artefact of his collection.",
+    "lucky": true,
+    "eventDifficulty": [1, 2]
+  },
+  {
+    "type": "LuckyEvent_ArtefactGoblin",
+    "name": "Generous Goblin",
+    "description": "You find a Goblin that give you an artefact of his collection.",
+    "lucky": true,
+    "eventDifficulty": [1, 2]
+  },
+  {
+    "type": "UnluckyEvent_Trap",
+    "name": "Mimic Door",
+    "description": "Be careful, only one of these doors is real",
+    "lucky": false,
+    "numberOfDoors" : 3,
+    "damage" : 10,
+    "eventDifficulty": [1, 2]
+  },
+  {
+    "type": "UnluckyEvent_Trap",
+    "name": "Magic Door",
+    "description": "Be careful, if you take the wrong door, you will lost a bit of you soul",
+    "lucky": false,
+    "numberOfDoors" : 5,
+    "damage" : 25,
+    "eventDifficulty": [1, 2]
+  }
+]

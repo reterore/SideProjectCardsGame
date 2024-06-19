@@ -1,0 +1,5 @@
+[
+  {"name": "Goblin1", "health": 30, "attack": 10, "boss": false, "type": "Goblin"},
+  {"name": "Ghoul1", "health": 50, "attack": 15, "boss": false, "type": "Ghoul"},
+  {"name": "Liche", "health": 400, "attack": 35, "boss": true, "type": "Liche"}
+]

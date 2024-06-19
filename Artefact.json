@@ -1,0 +1,58 @@
+﻿[
+  {
+    "type": "BonusShieldArtefact",
+    "name": "Guardian Shield",
+    "description": "A shield that offers extra protection in the early turns.",
+    "visual": "֍",
+    "value": 10,
+    "cursed": false
+  },
+  {
+    "type": "BonusShieldArtefact",
+    "name": "Guardian Shield",
+    "description": "A shield that offers extra protection in the early turns.",
+    "visual": "ٽ",
+    "value": 10,
+    "cursed": false
+  },
+  {
+  "type": "BonusShieldArtefact",
+  "name": "Guardian Shield",
+  "description": "A shield that offers extra protection in the early turns.",
+  "visual": "\u06DD",
+  "value": 10,
+  "cursed": false
+  },
+  {
+    "type": "BonusShieldArtefact",
+    "name": "Cursed Protector",
+    "description": "A shield with a powerful curse. Provides great protection but at a cost.",
+    "visual": "۞",
+    "value": 20,
+    "cursed": false
+  },
+  {
+    "type": "BonusShieldArtefact",
+    "name": "Cursed Protector",
+    "description": "A shield with a powerful curse. Provides great protection but at a cost.",
+    "visual": "Ф",
+    "value": 20,
+    "cursed": true
+  },
+  {
+    "type": "BonusShieldArtefact",
+    "name": "Cursed Protector",
+    "description": "A shield with a powerful curse. Provides great protection but at a cost.",
+    "visual": "Ф",
+    "value": 20,
+    "cursed": true
+  },
+  {
+    "type": "BonusShieldArtefact",
+    "name": "Cursed Protector",
+    "description": "A shield with a powerful curse. Provides great protection but at a cost.",
+    "visual": "Ф",
+    "value": 20,
+    "cursed": true
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "type": "SkillCard_SimpleHeal",
+    "manaCost": 2,
+    "name": "Lower Heal Potion",
+    "description": "This potion heals you for 10 hp",
+    "healValue": 10,
+    "numHeals": 1,
+    "uniqueUse": false,
+    "classes": ["Mage"],
+    "deckType": "starter",
+    "count": 4
+  },
+  {
+    "type": "SkillCard_SimpleShield",
+    "manaCost": 2,
+    "name": "Wooden Shield",
+    "description": "You gain 10 shield points",
+    "value": 100,
+    "uniqueUse": false,
+    "classes": ["Warrior"],
+    "deckType": "starter",
+    "count": 4
+  },
+  {
+    "type": "SkillCard_SimpleHeal",
+    "manaCost": 3,
+    "name": "Twins Heal Spirits",
+    "description": "2 spirits that heal you for 7 health each",
+    "healValue": 7,
+    "numHeals": 2,
+    "uniqueUse": false,
+    "classes": ["Mage"],
+    "deckType": "booster"
+  },
+  {
+    "type": "CombatCard",
+    "manaCost": 1,
+    "name": "Slashing Sword",
+    "description": "Slash your enemy for 10 damages",
+    "damage": 50,
+    "numAttacks": 1,
+    "uniqueUse": false,
+    "classes": ["Warrior"],
+    "deckType": "starter",
+    "count": 4
+  },
+  {
+    "type": "CombatCard",
+    "manaCost": 4,
+    "name": "Power Strike",
+    "description": "A powerful strike dealing 20 damage",
+    "damage": 20,
+    "numAttacks": 1,
+    "uniqueUse": false,
+    "classes": ["Warrior"],
+    "deckType": "booster"
+  },
+  {
+    "type": "CombatCard",
+    "manaCost": 11,
+    "name": "Odin shot Hammer",
+    "description": "A powerful Hammer strike dealing 150 damage",
+    "damage": 150,
+    "numAttacks": 1,
+    "uniqueUse": false,
+    "classes": ["Warrior"],
+    "deckType": "booster"
+  },
+  {
+    "type": "CombatCard",
+    "manaCost": 3,
+    "name": "3-Hit Boomrang",
+    "description": "A boomerang hitting the opponent 3 time for 9 damage",
+    "damage": 9,
+    "numAttacks": 3,
+    "uniqueUse": false,
+    "classes": ["Warrior"],
+    "deckType": "booster"
+  },
+  {
+    "type": "PassiveCard",
+    "manaCost": 0,
+    "name": "Battle Trance",
+    "uniqueUse": true,
+    "description": "Increase attack power by 5 for next turn",
+    "classes": ["Warrior", "Mage"],
+    "deckType": "starter"
+  },
+  {
+    "type": "PassiveDamageCard",
+    "manaCost": 2,
+    "name": "Blood Curse",
+    "uniqueUse": false,
+    "damage" : 7,
+    "description": "Inflict 7 damages per rounf to the enemy",
+    "classes": ["Warrior", "Mage"],
+    "deckType": "starter"
+  },
+  {
+    "type": "SkillCard",
+    "manaCost": 2,
+    "name": "Mystic Shield",
+    "uniqueUse": false,
+    "description": "Gain a shield that absorbs 10 damage",
+    "classes": ["Mage"],
+    "deckType": "booster"
+  }
+]
